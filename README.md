@@ -1,5 +1,5 @@
 # Eye-Disease-Prediction-Using-ML-
-##1. Project Overview
+#1. Project Overview
 The goal of an eye disease prediction project using ML is to develop a model that can accurately diagnose or predict the likelihood of eye diseases from medical images (such as retinal scans), clinical data, or a combination of both.
 
 2. Common Eye Diseases Targeted
